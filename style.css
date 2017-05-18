@@ -21,10 +21,12 @@ img.signin-img{
     display: block;
     width: 30%;
 }
-div.form-group{
-    padding: 0 10px;
-}
 form.signin-form{
     max-width: 350px;
     margin: auto;
+}
+button.signin-btn{
+    color: white;
+    background-color: #d64829;
+    width: 100%;
 }
