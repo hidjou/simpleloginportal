@@ -29,4 +29,8 @@ button.signin-btn{
     color: white;
     background-color: #d64829;
     width: 100%;
+    margin-bottom: 1.2rem;
+}
+label.form-check-label{
+    cursor: pointer;
 }
