@@ -34,3 +34,9 @@ button.signin-btn{
 label.form-check-label{
     cursor: pointer;
 }
+a.create-new-account{
+    font-size: 2rem;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+}
